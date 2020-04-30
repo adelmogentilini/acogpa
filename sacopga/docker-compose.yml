@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  acogpa:
+    container_name: acogpa
+    restart: always
+    build: .
+    image: acogpa:1.0.0
+    ports:
+      - '3000:3000'
+    expose:
+      - '3000'
+    

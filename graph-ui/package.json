@@ -14,27 +14,27 @@
   "main": "background.js",
   "dependencies": {
     "axios": "^0.19.2",
-    "bootstrap": "^4.4.1",
-    "bootstrap-vue": "^2.9.0",
-    "core-js": "^3.6.4",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.12.1",
     "konva": "^4.2.2",
-    "vue": "^2.6.11",
-    "vue-konva": "^2.1.1",
-    "vue-router": "^3.1.5"
+    "vue": "^2.6.12",
+    "vue-konva": "^2.1.7",
+    "vue-router": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-eslint": "~4.2.0",
     "@vue/cli-plugin-router": "~4.2.0",
     "@vue/cli-service": "~4.2.0",
-    "@vue/eslint-config-airbnb": "^5.0.2",
+    "@vue/eslint-config-airbnb": "^5.3.0",
     "babel-eslint": "^10.0.3",
-    "electron": "^6.0.0",
+    "electron": "^6.1.12",
     "eslint": "^6.7.2",
-    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-vue": "^6.1.2",
     "vue-cli-plugin-electron-builder": "~1.4.6",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.12"
   },
   "eslintConfig": {
     "root": true,
